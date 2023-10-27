@@ -594,11 +594,11 @@ table tr:hover {
   line-height: 14px;
   display: inline-block;
   text-decoration: none;
-  border: 1px solid #0078d9;
+  border: 1px solid #f4f118; /*originally #0078d9 blue*/
   -webkit-border-radius: 0;
           border-radius: 0;
   background-color: transparent;
-  color: #0078d9;
+  color: #f4f118; /*originally #0078d9 blue*/
   outline: none;
   cursor: pointer;
   -webkit-transition: all 0.2s ease;
@@ -607,7 +607,7 @@ table tr:hover {
 }
 
 .btn:hover {
-  background-color: #0078d9;
+  background-color: #f4f118; /*originally #0078d9 blue*/
   color: #ffffff;
 }
 
@@ -652,7 +652,7 @@ table tr:hover {
 .site-header {
   height: 60px;
   position: relative;
-  background-color: #0078d9;
+  background-color: #f4f118; /*originally #0078d9 blue*/
   overflow: hidden;
 }
 
@@ -792,7 +792,7 @@ table tr:hover {
 .search-form input[type="text"] {
   font-size: 14px;
   color: #ffffff;
-  background-color: #0078d9;
+  background-color: #f4f118; /*originally #0078d9 blue*/
   border: none;
 }
 
@@ -1001,7 +1001,7 @@ table tr:hover {
 
 .info-social-list li a:hover,
 .info-social-list li span:hover {
-  color: #0078d9;
+  color: #f4f118; /*originally #0078d9 blue*/
 }
 
 .info-social-list li span {
@@ -1049,7 +1049,7 @@ table tr:hover {
   outline: none;
   cursor: pointer;
   color: #ffffff;
-  background-color: #0078d9;
+  background-color: #f4f118; /*originally #0078d9 blue*/
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -1446,7 +1446,7 @@ table tr:hover {
   margin-right: 10px;
   float: left;
   font-size: 55px;
-  color: #0078d9;
+  color: #f4f118; /*originally #0078d9 blue*/
   line-height: 0.6;
 }
 
@@ -1624,7 +1624,7 @@ table tr:hover {
 }
 
 .top:hover {
-  color: #0078d9;
+  color: #f4f118; /*originally #0078d9 blue*/
   opacity: 1;
 }
 
@@ -1728,7 +1728,7 @@ table tr:hover {
 }
 
 .social-footer li a:hover {
-  color: #0078d9;
+  color: #f4f118; /*originally #0078d9 blue*/
 }
 
 .copyright {
@@ -1933,7 +1933,7 @@ table tr:hover {
 
 .form .form-group .form-btn {
   font-weight: 700;
-  background-color: #0078d9;
+  background-color: #f4f118; /*originally #0078d9 blue*/
   color: #ffffff;
   -webkit-border-radius: 3px;
           border-radius: 3px;
