@@ -1,13 +1,13 @@
 # Site settings
 title: Capoeira de Angola #Lokmont
-description: Celebrating Afro-Brazilian culture, music, and movement. #Lokmont is a responsive simple theme for Jekyll.
+description: Celebrating Afro-Brazilian culture, music, and movement. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://angolacenterillinois.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: angolacenterillinois-website-design02.png #112.jpg
 hero-title: Capoeira Angola Center Illinois
-hero-description: We welcome you on the journey to learning the beauty and traditions Capoeria de Angola.#A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero-description: We welcome you on the journey to learning the beauty and traditions Capoeria de Angola.
 
 # Author - Creator
 author-name: Ben Campbell
