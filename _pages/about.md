@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 
+image: cac-roda01.jpg
 ---
 
 ## What is Capoeira Angola?
@@ -13,6 +13,8 @@ Capoeira Angola is an Afro-Brazilian Art Form that is rapidly growing all over t
 Our Center offers an inclusive environment that brings students together to grow in the context of a diverse, worldwide community. Capoeira Angola's combination of sport, art, music, dance tradition and discipline keeps Brazilian traditions alive in Urbana-Champaign, including the UIUC campus, so students of **all ages** in the Champaign/Urbana community can connect to the culture of the Brazil through this over 400 year old art form.
 
 ## Capoeira Angola Lineage
+
+![cac-roda01.jpg](cac-roda01.jpg)
 
 - **Mestre Benedito**  
 - **Mestre Pastinha**  
