@@ -2,7 +2,7 @@
 layout: post
 title: Registration for Kids Class
 date: 2023-11-20
-image: cac-il-logo.jpg
+img: cac-il-logo.jpg
 tags: Registration, Kids
 ---
 Thank you for your interest in learning the tradition, art & culture of Capoeira Angola. Please fill out the appropriate registration form to let us know what classes you would like to attend. We have payment options that are per-class, class packages and monthly memberships.
