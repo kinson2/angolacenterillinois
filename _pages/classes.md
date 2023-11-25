@@ -28,13 +28,13 @@ image: cac-class01.jpg
 <tr><td colspan='8' style='font-weight: 900;'>Morning</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;Adult</td>
-<td style='text-align: center;'>11:00am-1:00pm</td>
+<td style='text-align: center;'>[11:00am-1:00pm](#class-info)</td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
-<td style='text-align: center;'>11:30am-1:00pm</td>
+<td style='text-align: center;'>[11:30am-1:00pm](#class-info)</td>
 </tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;Kids</td>
@@ -44,17 +44,17 @@ image: cac-class01.jpg
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
 <td style='text-align: center;'></td>
-<td style='text-align: center;'>11:30am-12:15pm</td>
+<td style='text-align: center;'>[11:30am-12:15pm](#class-info)</td>
 </tr> 
 <tr><td colspan='8' style='font-weight: 900;'>Evening</td></tr>
 <tr>
 <td style='border-bottom: 2px solid grey; text-align: left;'>&nbsp;&nbsp;Adult</td>
 <td style='border-bottom: 2px solid grey; text-align: center;'></td>
-<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
-<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
-<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
-<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
-<td style='border-bottom: 2px solid grey; text-align: center;'>6:00pm-7:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>[6:30pm-8:00pm](#class-info)</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>[6:30pm-8:00pm](#class-info)</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>[6:30pm-8:00pm](#class-info)</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>[6:30pm-8:00pm](#class-info)</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>[6:00pm-7:00pm](#class-info)</td>
 <td style='border-bottom: 2px solid grey; text-align: center;'></td>
 </tr>
 </tbody>
@@ -63,7 +63,18 @@ image: cac-class01.jpg
 </body>
 </html>
 
-## Class Information
+## <a name="class-info"></a>Class Information
+- **Sunday** 11:00am-1:00pm: Class with Mestre João Grande (Online - Any Level) - Registration required through Capoeira Angola Center - NYC
+- **Monday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Beginner Level) - Register through CAC-IL
+- **Tuesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Intermediate Level) - Register through CAC-IL
+- **Wednesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Advanced Level) - Register through CAC-IL
+- **Thursday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - Register through CAC-IL
+- **Friday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - Registration required through Capoeira Angola Center - NYC
+- **Saturday** at Urbana Independent Media Center in the Sun Room, 202 S Broadway Ave, Urbana, IL 61801
+  - 11:30am-1:00pm: Adult Class with Contramestre Deni (Online - Any Level) - Register through CAC-IL
+  - 11:30am-12:15pm: Kids Class with Guest Teacher - Register through CAC-IL
+
+## Class Details
 Both our online and in-person classes are founded in the teaching style of Mestre João Grande who developed a simple, efficient and yet challengingly nuanced approach to sharing traditional information in a fun and supportive class environment. Under Contramestre Deni’s leadership, our classes are structured generally as follows: 
 
 - Introduction and Warm-Up
