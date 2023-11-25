@@ -4,11 +4,72 @@ title: Classes
 subtitle: 'This is the subtitle.'
 image: cac-class01.jpg
 ---
+## Class Schedule
+
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="margin: 0 auto; display: table; margin-top: 1em;">
+<table class='gmisc_table' style='border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;' >
+<thead>
+<tr><th style='border-bottom: 1px solid grey; border-top: 2px solid grey;'></th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Sun</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Mon</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Tue</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Wed</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Thu</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Fri</th>
+<th style='font-weight: 900; border-bottom: 1px solid grey; border-top: 2px solid grey; text-align: center;'>Sat</th>
+</tr>
+</thead>
+<tbody> 
+<tr><td colspan='8' style='font-weight: 900;'>Morning</td></tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;Adult</td>
+<td style='text-align: center;'>11:00am-1:00pm</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>11:30am-1:00pm</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;Kids</td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'></td>
+<td style='text-align: center;'>11:30am-12:15pm</td>
+</tr> 
+<tr><td colspan='8' style='font-weight: 900;'>Evening</td></tr>
+<tr>
+<td style='border-bottom: 2px solid grey; text-align: left;'>&nbsp;&nbsp;Adult</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'></td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>6:30pm-8:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'>6:00pm-7:00pm</td>
+<td style='border-bottom: 2px solid grey; text-align: center;'></td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+## Class Information
 Both our online and in-person classes are founded in the teaching style of Mestre João Grande who developed a simple, efficient and yet challengingly nuanced approach to sharing traditional information in a fun and supportive class environment. Under Contramestre Deni’s leadership, our classes are structured generally as follows: 
-Introduction and Warm-Up
-Capoeira Angola Sequences (Can be trained alone or in partners)
-Capoeira Anogla Music (no instruments required for beginners)
-Bate-Papo (A non-formal conversation with question and answer)
+
+- Introduction and Warm-Up
+- Capoeira Angola Sequences (Can be trained alone or in partners)
+- Capoeira Angola Music (no instruments required for beginners)
+- Bate-Papo (A non-formal conversation with question and answer)
 
 The Capoeira Angola Center - Illinois follows the tradition which Mestre João Grande has established and we ask that you come to class with pants, flat soled shoes, and a t-shirt which can be tucked in. Belts are optional for beginners. 
 
