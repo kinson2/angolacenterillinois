@@ -13,16 +13,14 @@ Capoeira Angola is an Afro-Brazilian Art Form that is rapidly growing all over t
 Our Center offers an inclusive environment that brings students together to grow in the context of a diverse, worldwide community. Capoeira Angola's combination of sport, art, music, dance tradition and discipline keeps Brazilian traditions alive in Urbana-Champaign, including the UIUC campus, so students of **all ages** in the Champaign/Urbana community can connect to the culture of the Brazil through this over 400 year old art form.
 
 ## Capoeira Angola Lineage
-
-![cac-roda01.jpg](cac-roda01.jpg)
-
+![Capoeira Angola Lineage]({{site.baseurl}}/images/pages/about-timeline-img01.png)  
 - **Mestre Benedito**  
 - **Mestre Pastinha**  
 - [**Mestre João Grande**](#joao)  
 - [**Contramestre Deni**](#deni)  
 
 ### <a name="joao"></a>Mestre João Grande
-
+![Mestre João Grande]({{site.baseurl}}/images/pages/about-joao01.png)  
 Mestre João Grande is a Grand Master of Capoeira Angola with more than 70 years of experience, is a highly respected figure in the world of capoeira and has received numerous awards. These include a Doctorate of Humane Letters from Upsala College in East Orange, NJ in 1995, and in September of 2001 he was awarded the National Heritage Fellowship by the National Endowment for the Arts, which is one of the most prestigious awards for practitioners of traditional arts in the US.
 
 João Grande first learned Capoeira Angola from Mestre Pastinha, who continues to be his primary source of inspiration. Mestre Pastinha opened the first Capoeira Angola School, The Academia De Capoeira Angola, in 1941 in the city of Salvador, Bahia in the northeast of Brazil. Mestre Pastinha dedicated his school to preserving and continuing the long tradition of this African martial art, teaching Capoeira Angola as a path of self knowledge and mastery. Mestre Pastinha was the first Capoeira Mestre (master) to write a book on the history, philosophy and practice of Capoeira, simply entitled 'Capoeira Angola.' He went to Africa with his students to participate in the Festival of African Arts and Culture during the 1970's and also produced albums promoting the unique musical component of this martial art.
@@ -31,7 +29,7 @@ Entering Mestre João Grande's Academy, you can feel the energy of Capoeira Ango
 Mestre has traveled extensively in Africa, Europe, and Asia, throughout Brazil and the United States. He first traveled abroad in the 1970's with Viva Bahia, one of the first groups to perform capoeira and other Afro-Brazilian folk arts outside of Brazil. He subsequently traveled to conduct Capoeira Angola workshops in Brazil and worldwide. 
 
 ### <a name="deni"></a>Contramestre Denis Chiaramonte
-
+![Contramestre Denis Chiaramonte]({{site.baseurl}}/images/pages/about-deni01.png)  
 Originally from Jundiaí, São Paulo, Brazil, Contramestre Denis Chiaramonte has more than 35 years of experience in the art of capoeira. Starting his journey in June 1988 and currently teaching capoeira in Champaign-Illinois, in April 2013 he was accepted by Mestre João Grande to be part of the Capoeira Angola Center of Mestre João Grande. For Denis it is a great honor to be accepted as a student of Mestre João Grande. Contramestre Denis leads the Capoeira Angola Center of Mestre João Grande – IL. Since his arrival in the United States he has led workshops and assisted Mestre João Grande across the country and around the world in France, Israel, Serbia, Italy, Spain, Finland, Germany, England, Japan, and Mexico.
 
 Contramestre Denis is a student of Mestre João Grande. The 86-year old grandmaster, originally from Bahia and now based in Harlem, New York, has more than 60 years of experience and is the oldest living direct link with Mestre Pastinha, the founder of the first Capoeira Angola school. Mestre João Grande has received numerous awards including a Doctorate of Humane Letters from Upsala College in East Orange, NJ in 1995, and the National Heritage Fellowship of the National Endowment for the Arts in 2001. On November 9, 2015 he received the award Grã-Cruz da Ordem do Mérito Cultural, the highest award presented for contributions to Brazilian culture in a ceremony with Former Brazilian President Dilma Rousseff conferring the award. In the past years he has been invited as a special guest to perform and give a lecture on Capoeira Angola in Washington DC’s Smithsonian Folklife Festival. He has also received an award from the cultural and languages Department of Howard University for his work in the preservation of the Afro- Brazilians traditions.
