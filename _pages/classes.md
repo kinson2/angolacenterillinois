@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Classes
-subtitle: 'This is the subtitle.'
 image: cac-class01.jpg
 ---
 ## Class Schedule
@@ -64,15 +63,15 @@ image: cac-class01.jpg
 </html>
 
 ## <a id="class-info"></a>Class Information
-- **Sunday** 11:00am-1:00pm: Class with Mestre João Grande (Online - Any Level) - Registration required through Capoeira Angola Center - NYC
-- **Monday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Beginner Level) - Register through CAC-IL
-- **Tuesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Intermediate Level) - Register through CAC-IL
-- **Wednesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Advanced Level) - Register through CAC-IL
-- **Thursday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - Register through CAC-IL
-- **Friday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - Registration required through Capoeira Angola Center - NYC
+- **Sunday** 11:00am-1:00pm: Class with Mestre João Grande (Online - Any Level) - [Registration required through Capoeira Angola Center - NYC](https://joaogrande.org/)
+- **Monday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Beginner Level) - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/adult-registration/)
+- **Tuesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Intermediate Level) - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/adult-registration/)
+- **Wednesday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Advanced Level) - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/adult-registration/)
+- **Thursday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/adult-registration/)
+- **Friday** 6:30am-8:00pm: Class with Contramestre Deni (Online - Any Level) - [Registration required through Capoeira Angola Center - NYC](https://joaogrande.org/)
 - **Saturday** at Urbana Independent Media Center in the Sun Room, 202 S Broadway Ave, Urbana, IL 61801
-  - 11:30am-1:00pm: Adult Class with Contramestre Deni (Online - Any Level) - Register through CAC-IL
-  - 11:30am-12:15pm: Kids Class with Guest Teacher - Register through CAC-IL
+  - 11:30am-1:00pm: Adult Class with Contramestre Deni (Online - Any Level) - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/adult-registration/)
+  - 11:30am-12:15pm: Kids Class with Guest Teacher - [Register through CAC-IL](https://angolacenterillinois.org/2023/11/20/kids-registration/)
 
 ## Class Details
 Both our online and in-person classes are founded in the teaching style of Mestre João Grande who developed a simple, efficient and yet challengingly nuanced approach to sharing traditional information in a fun and supportive class environment. Under Contramestre Deni’s leadership, our classes are structured generally as follows: 
