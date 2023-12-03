@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: cac-roda01.jpg
+image: contramestre-denis01.jpg
 ---
 Please reach out to us with any questions or inquiries related to our classes or workshop offerings. 
 
