@@ -7,4 +7,4 @@ Please reach out to us with any questions or inquiries related to our classes or
 
 - Email: angolacenterillinois@gmail.com
 - Phone (Text, Call or WhatsApp): +1-314-728-9007
-- InstaGram: @angolacenterillinois
+- Instagram: @angolacenterillinois
