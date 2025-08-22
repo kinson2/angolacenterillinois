@@ -7,6 +7,10 @@ The Capoeira Angola Center of Illinois, under the direction of Mestre Denis Chia
 
 We will update this page with information regarding upcoming events. Please refer to the portfolio included here for examples of past conferences. 
 
+## Encontro com Mestre Deni & Mestre Negoativo - September 5-7, Urbana IL:
+![Flyer for M. Negoativo]({{site.baseurl}}/images/pages/mnegoativo25.png) 
+[Registration and Event Information](https://tinyurl.com/MNegoativo25)
+
 ## Capoeira Angola Center IL Event Portfolio: 
 - Brasa XI International Conference, UIUC, Capoeira Performance, September 2012
 - Leal Elementary School – Urbana, 21st Century Grant for Leal Enrichment, Capoeira Classes, 2011 & 2012
