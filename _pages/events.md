@@ -3,7 +3,7 @@ layout: page
 title: Events
 image: cac-events01.jpg
 ---
-The Capoeira Angola Center Illinois, under the direction of Contramestre Denis Chiaramonte, is proud to have hosted many conferences and events which have brought participants from the world over to Champaign Urbana to learn more about the tradition, history and practice of Capoeira Angola from Mestre João Grande and many other great teachers and Mestres. 
+The Capoeira Angola Center of Illinois, under the direction of Mestre Denis Chiaramonte, is proud to have hosted many conferences and events which have brought participants from the world over to Champaign-Urbana to learn more about the tradition, history, and practice of Capoeira Angola from Mestre João Grande and many other great teachers and Mestres. 
 
 We will update this page with information regarding upcoming events. Please refer to the portfolio included here for examples of past conferences. 
 
@@ -28,7 +28,7 @@ We will update this page with information regarding upcoming events. Please refe
 - Capoeira Angola Winter Workshops at UIUC - Siebel Center for Design - 12/2021
 - Capoeira Angola Workshops - Unit 4 Public Schools - 5/2022
 - Illinois State University Maculele Dance Workshop - 8/2022
-- Capoeira Angola Music Demonstrations - CIRCLE Academy at Cunningham Childrens Home - 7/2023
+- Capoeira Angola Music Demonstrations - CIRCLE Academy at Cunningham Children's Home - 7/2023
 - Illinois Wesleyan University - Capoeira Angola Movement and Music Workshop with Department of World Languages, Literatures and Cultures, 9/2023
 - Illinois State University - Capoeira Angola Workshop with Department of Dance, 9/2023
 - Urbana-Champaign Independent Media Center Youth Showcase - Capoeira Angola & Samba-Reggae Demonstration, 10/2023
